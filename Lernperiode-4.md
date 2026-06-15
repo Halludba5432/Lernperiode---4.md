@@ -85,6 +85,23 @@ Heute habe ich mit einer Website über die Stadt Tetovo in Mazedonien begonnen. 
 
 Heute habe ich meine Tetovo-Website weiterentwickelt. Ich habe zusätzliche Informationen ergänzt und weitere Unterseiten erstellt. Ausserdem habe ich das Design verbessert und die aktuellen Änderungen auf GitHub hochgeladen.
 
+### Planung 12.06.2026
+* [x] Tetovo-Website weiter verbessern
+* [x] Bilder und Informationen ergänzen
+* [x] Navigation optimieren
+* [x] Projekt dokumentieren
+
+Reflexion 12.06.2026
+Heute habe ich weiter an meiner Tetovo-Website gearbeitet. Ich habe zusätzliche Bilder und Informationen eingefügt, damit die Website interessanter und informativer wird. Ausserdem habe ich die Navigation verbessert, damit Besucher einfacher zwischen den verschiedenen Seiten wechseln können. Zum Schluss habe ich meine Fortschritte dokumentiert und die aktuellen Änderungen gespeichert
+
+### Planung 19.06.2026
+* [x] Tetovo-Website fertigstellen
+* [x] Design weiter verbessern
+* [x] GitHub-Repository aktualisieren
+* [x] Lernperiode auswerten und dokumentieren
+
+Reflexion 19.06.2026
+Heute habe ich die letzten Arbeiten an meiner Tetovo-Website durchgeführt. Ich habe das Design überarbeitet und kleinere Fehler korrigiert. Anschliessend habe ich alle Änderungen auf GitHub hochgeladen und das Projekt aktualisiert. Zum Abschluss habe ich die Lernperiode ausgewertet und dokumentiert, welche Fortschritte ich bei der Webentwicklung und im Umgang mit GitHub gemacht habe. Dadurch konnte ich meine Kenntnisse weiter festigen und wichtige Erfahrungen sammeln.
 
 ## Lernperiode Reflexion
 
