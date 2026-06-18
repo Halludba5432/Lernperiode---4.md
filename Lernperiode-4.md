@@ -95,17 +95,13 @@ Reflexion 12.06.2026
 Heute habe ich weiter an meiner Tetovo-Website gearbeitet. Ich habe zusätzliche Bilder und Informationen eingefügt, damit die Website interessanter und informativer wird. Ausserdem habe ich die Navigation verbessert, damit Besucher einfacher zwischen den verschiedenen Seiten wechseln können. Zum Schluss habe ich meine Fortschritte dokumentiert und die aktuellen Änderungen gespeichert
 
 ### Planung 19.06.2026
-* [x] Tetovo-Website fertigstellen
-* [x] Design weiter verbessern
-* [x] GitHub-Repository aktualisieren
-* [x] Lernperiode auswerten und dokumentieren
+COMING SOON
 
-Reflexion 19.06.2026
-Heute habe ich die letzten Arbeiten an meiner Tetovo-Website durchgeführt. Ich habe das Design überarbeitet und kleinere Fehler korrigiert. Anschliessend habe ich alle Änderungen auf GitHub hochgeladen und das Projekt aktualisiert. Zum Abschluss habe ich die Lernperiode ausgewertet und dokumentiert, welche Fortschritte ich bei der Webentwicklung und im Umgang mit GitHub gemacht habe. Dadurch konnte ich meine Kenntnisse weiter festigen und wichtige Erfahrungen sammeln.
+## Reflexion 19.06.2026
+COMING SOON
+
 
 ## Lernperiode Reflexion
 
-In dieser Lernperiode habe ich an mehreren Projekten gearbeitet und dabei meine Kenntnisse in der Webentwicklung und im Umgang mit GitHub verbessert. Zu Beginn der Lernperiode habe ich einen Passwortgenerator entwickelt. Dabei habe ich gelernt, wie man ein Projekt plant, strukturiert aufbaut und verschiedene Funktionen implementiert. Anschliessend habe ich an einer Fitness-Website gearbeitet. Dort konnte ich meine Kenntnisse in HTML und CSS erweitern und lernen, wie man Webseiten übersichtlich gestaltet.
-
-Zum Schluss habe ich mit einer Website über die Stadt Tetovo in Mazedonien begonnen, an der ich weiterhin arbeite. Dabei habe ich gelernt, Informationen zu recherchieren und diese auf einer Website ansprechend darzustellen. Ausserdem habe ich GitHub regelmässig genutzt, um meine Projekte zu dokumentieren und zu verwalten. Insgesamt habe ich meine Ziele grösstenteils erreicht und konnte wichtige Erfahrungen in den Bereichen Webentwicklung, GitHub und selbstständiges Arbeiten sammeln.
+In dieser Lernperiode habe ich an verschiedenen Projekten gearbeitet und dabei neue Sachen gelernt. Ich habe einen Passwortgenerator gemacht und dabei gelernt, wie man ein Projekt plant und aufbaut. Danach habe ich an einer Fitness-Website gearbeitet und meine Kenntnisse in HTML und CSS verbessert. Am Schluss habe ich mit einer Website über Tetovo begonnen. Dabei habe ich Informationen gesucht und auf der Website dargestellt. Ausserdem habe ich GitHub benutzt, um meine Projekte zu speichern. Insgesamt habe ich viel gelernt und meine Ziele grösstenteils erreicht.
 
