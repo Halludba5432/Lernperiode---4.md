@@ -95,10 +95,22 @@ Reflexion 12.06.2026
 Heute habe ich weiter an meiner Tetovo-Website gearbeitet. Ich habe zusätzliche Bilder und Informationen eingefügt, damit die Website interessanter und informativer wird. Ausserdem habe ich die Navigation verbessert, damit Besucher einfacher zwischen den verschiedenen Seiten wechseln können. Zum Schluss habe ich meine Fortschritte dokumentiert und die aktuellen Änderungen gespeichert
 
 ### Planung 19.06.2026
-COMING SOON
+* [x] Tetovo-Website Abschliessen
+* [x] Neues Projekt erstellen
+* [x] Github dokumentation machen
+      
 
 ## Reflexion 19.06.2026
+Heute habe ich alle geplanten Aufgaben erledigt. Ich habe die Tetovo-Website abgeschlossen, ein neues Projekt erstellt und die GitHub-Dokumentation gemacht. Insgesamt konnte ich meine Ziele erreichen und meine Arbeiten sauber dokumentieren.
+
+## GROBPLANUNG 26.06.2026
+* [] weiter an neues projekt arbeiten
+* [] codes verbessern
+* [] Github dokumentation machen
+
+## REFLEXION 26.06.2026
 COMING SOON
+
 
 
 ## Lernperiode Reflexion
