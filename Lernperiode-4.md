@@ -109,7 +109,7 @@ Heute habe ich alle geplanten Aufgaben erledigt. Ich habe die Tetovo-Website abg
 * [] Github dokumentation machen
 
 ## REFLEXION 26.06.2026
-COMING SOON
+
 
 
 
