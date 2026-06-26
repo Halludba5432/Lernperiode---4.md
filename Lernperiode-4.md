@@ -1,7 +1,7 @@
 # Lern-Periode 1
 
 - Name: Abdullah Emini
-- Zeitraum: 24.04.2026 bis 05.06.2026
+- Zeitraum: 24.04.2026 bis 26.06.2026
 
 ## Grob-Planung
 
