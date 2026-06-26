@@ -104,13 +104,13 @@ Heute habe ich weiter an meiner Tetovo-Website gearbeitet. Ich habe zusätzliche
 Heute habe ich alle geplanten Aufgaben erledigt. Ich habe die Tetovo-Website abgeschlossen, ein neues Projekt erstellt und die GitHub-Dokumentation gemacht. Insgesamt konnte ich meine Ziele erreichen und meine Arbeiten sauber dokumentieren.
 
 ## GROBPLANUNG 26.06.2026
-* [] weiter an neues projekt arbeiten
-* [] codes verbessern
-* [] Github dokumentation machen
+* [x] weiter an neues projekt arbeiten
+* [x] codes verbessern
+* [x] Github dokumentation machen
 
 ## REFLEXION 26.06.2026
 
-
+Heute habe ich weiter an meinem neuen Projekt gearbeitet und mehrere wichtige Aufgaben abgeschlossen. Ich habe meinen Code überarbeitet und verbessert, damit alles stabiler und übersichtlicher läuft. Danach habe ich die GitHub‑Dokumentation ergänzt, damit meine aktuellen Fortschritte klar nachvollziehbar bleiben. Zum Schluss habe ich alle Änderungen sauber gespeichert und meinen heutigen Stand festgehalten. Insgesamt war es ein produktiver Tag, an dem ich spürbar vorangekommen bin.
 
 
 ## Lernperiode Reflexion
