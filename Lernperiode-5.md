@@ -1,4 +1,4 @@
-# Lernperiode 5 / 6 / 7 / 8
+# Lernperiode 5
 Abdullah Emini
 Zeitraum: 14.08.2026 bis 25.09.2026
 
@@ -27,7 +27,7 @@ Heute habe ich,
 
 Heute habe ich mit meinem neuen Projekt begonnen. Ich möchte einen Notenrechner erstellen, mit dem man verschiedene Noten eingeben und den Durchschnitt berechnen kann. Zuerst habe ich mir überlegt, welche Funktionen das Programm haben soll. Danach habe ich die Grundstruktur mit HTML erstellt. Zum Schluss habe ich ein neues Repository auf GitHub erstellt und meinen bisherigen Stand hochgeladen.
 
-Planung 21.08.2026
+## planung 21.08.2026
 * [ ]  Eingabefelder für Noten erstellen
 * [ ] Button zum Berechnen erstellen
 * [ ] Erste CSS-Gestaltung machen
