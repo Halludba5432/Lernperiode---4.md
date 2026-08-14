@@ -117,3 +117,29 @@ Heute habe ich weiter an meinem neuen Projekt gearbeitet und mehrere wichtige Au
 
 In dieser Lernperiode habe ich an verschiedenen Projekten gearbeitet und dabei neue Sachen gelernt. Ich habe einen Passwortgenerator gemacht und dabei gelernt, wie man ein Projekt plant und aufbaut. Danach habe ich an einer Fitness-Website gearbeitet und meine Kenntnisse in HTML und CSS verbessert. Am Schluss habe ich mit einer Website über Tetovo begonnen. Dabei habe ich Informationen gesucht und auf der Website dargestellt. Ausserdem habe ich GitHub benutzt, um meine Projekte zu dokumentieren. Insgesamt habe ich viel gelernt und bin meinen Zielen deutlich näher gekommen.
 
+
+
+# Lern-Periode 5 / 6 / 7 / 8
+Name: Abdullah Emini
+Zeitraum: 14.08.2026 bis 25.09.2026
+
+## Grob-Planung
+
+### Noten
+Ich möchte meine Noten verbessern und vor allem bei den Fächern, in denen ich noch nicht so gut bin, mehr üben. Ich möchte meine Aufgaben früher anfangen und besser kontrollieren, bevor ich sie abgebe.
+
+### Veränderungen
+Ich möchte meine Zeit besser einteilen und nicht alles auf den letzten Moment machen. Ausserdem möchte ich bei Aufgaben genauer arbeiten und bei Problemen zuerst selber nach einer Lösung suchen.
+> Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
+Generelle Ziele
+> Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
+
+## Tagesplanungen
+### Planung 14.08.2026
+* []  Projekt Notenrechner planen
+* []  Grundstruktur erstellen
+* []  HTML-Grundgerüst programmieren
+* []  Projekt auf GitHub hochladen
+
+
+
