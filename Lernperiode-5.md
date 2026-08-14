@@ -18,7 +18,17 @@ Meine Informatik Skills stärken und ohne unnötige hilfe arbeiten, sodass ich l
 
 ## Tagesplanungen
 ### Planung 14.08.2026
-* []  Projekt Notenrechner planen
-* []  Grundstruktur erstellen
-* []  HTML-Grundgerüst programmieren
-* []  Projekt auf GitHub hochladen
+* [x]  Projekt Notenrechner planen
+* [x]  Grundstruktur erstellen
+* [x]  HTML-Grundgerüst programmieren
+* [x]  Mehr Recherchieren um besser programmieren zu können
+
+Heute habe ich,
+
+Heute habe ich mit meinem neuen Projekt begonnen. Ich möchte einen Notenrechner erstellen, mit dem man verschiedene Noten eingeben und den Durchschnitt berechnen kann. Zuerst habe ich mir überlegt, welche Funktionen das Programm haben soll. Danach habe ich die Grundstruktur mit HTML erstellt. Zum Schluss habe ich ein neues Repository auf GitHub erstellt und meinen bisherigen Stand hochgeladen.
+
+Planung 21.08.2026
+* []  Eingabefelder für Noten erstellen
+* [] Button zum Berechnen erstellen
+* [] Erste CSS-Gestaltung machen
+* [] Änderungen auf GitHub speichern
