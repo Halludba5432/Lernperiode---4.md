@@ -7,7 +7,7 @@ Zeitraum: 14.08.2026 bis 25.09.2026
 ### Noten
 Ich möchte meine Noten verbessern und vor allem bei den Fächern, 
 in denen ich noch nicht so gut bin, mehr üben. Ich möchte meine Aufgaben früher anfangen und besser kontrollieren, 
-bevor ich sie abgebe.
+bevor ich sie abgebe. Bis jetzt lief Modul 431 am besten und 319 am schlechtesten.
 
 ### Veränderungen
 Ich möchte meine Zeit besser einteilen und nicht alles auf den letzten Moment machen. 
