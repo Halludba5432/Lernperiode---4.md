@@ -36,7 +36,7 @@ Zuerst habe ich mir überlegt, welche Funktionen das Programm haben soll. Danach
 * [x] Erste CSS-Gestaltung machen
 * [x] Änderungen auf GitHub speichern
 
-Heute habe ich eine Reflexion zu meiner Arbeit gemacht. Ich habe überprüft, was ich bereits erreicht habe und welche Schritte noch offen sind. Die Eingabefelder für die Noten, 
+Heute habe ich einfach weiter gearbeitet. Ich habe überprüft, was ich bereits erreicht habe und welche Schritte noch offen sind. Die Eingabefelder für die Noten, 
 den Berechnen-Button und die erste CSS-Gestaltung habe ich erfolgreich umgesetzt. Außerdem habe ich meine Änderungen auf GitHub gespeichert. Insgesamt bin ich mit meinem Fortschritt zufrieden und kann nun mit den nächsten Aufgaben weitermachen.
 
 Planung 28.08.2026
