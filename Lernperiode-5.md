@@ -40,7 +40,9 @@ Heute habe ich einfach weiter gearbeitet. Ich habe überprüft, was ich bereits 
 den Berechnen-Button und die erste CSS-Gestaltung habe ich erfolgreich umgesetzt. Außerdem habe ich meine Änderungen auf GitHub gespeichert. Insgesamt bin ich mit meinem Fortschritt zufrieden und kann nun mit den nächsten Aufgaben weitermachen.
 
 ## Planung 28.08.2026
-* [ ] JavaScript einbauen
-* [ ] Durchschnitt berechnen
-* [ ] Ergebnis anzeigen
-* [ ] Funktionen testen
+* [x] JavaScript einbauen
+* [x] Durchschnitt berechnen
+* [x] Ergebnis anzeigen
+* [x] Funktionen testen
+
+Heute habe ich JavaScript eingebaut, den Durchschnitt berechnet und das Ergebnis angezeigt. Danach habe ich alles getestet und Fehler verbessert.
