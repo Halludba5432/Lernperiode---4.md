@@ -47,7 +47,7 @@ den Berechnen-Button und die erste CSS-Gestaltung habe ich erfolgreich umgesetzt
 
 Heute habe ich JavaScript eingebaut, den Durchschnitt berechnet und das Ergebnis angezeigt. Danach habe ich alles getestet und Fehler verbessert.
 
-Planung 04.09.2026
+## Planung 04.09.2026
 * [ ] Weitere Noten hinzufügen können
 * [ ] Noten löschen können
 * [ ] Eingaben überprüfen
