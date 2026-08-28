@@ -117,3 +117,6 @@ Heute habe ich weiter an meinem neuen Projekt gearbeitet und mehrere wichtige Au
 
 In dieser Lernperiode habe ich an verschiedenen Projekten gearbeitet und dabei neue Sachen gelernt. Ich habe einen Passwortgenerator gemacht und dabei gelernt, wie man ein Projekt plant und aufbaut. Danach habe ich an einer Fitness-Website gearbeitet und meine Kenntnisse in HTML und CSS verbessert. Am Schluss habe ich mit einer Website über Tetovo begonnen. Dabei habe ich Informationen gesucht und auf der Website dargestellt. Ausserdem habe ich GitHub benutzt, um meine Projekte zu dokumentieren. Insgesamt habe ich viel gelernt und bin meinen Zielen deutlich näher gekommen.
 
+## Projekt:
+file:///C:/Users/abdul/OneDrive%20-%20BBBaden/Projekte/Website_Tetovo.html
+
