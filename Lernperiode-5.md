@@ -21,7 +21,7 @@ Ausserdem nutze ich GitHub, um mein Projekt zu speichern und zu verwalten.
 > Meine Informatik Skills stärken und ohne unnötige Hilfe arbeiten, sodass ich lernen kann selbst arbeiten zu können.
 
 ## Tagesplanungen
-## Planung 14.08.2026
+### Planung 14.08.2026
 * [x]  Projekt Notenrechner planen
 * [x]  Grundstruktur erstellen
 * [x]  HTML-Grundgerüst programmieren
@@ -30,7 +30,7 @@ Ausserdem nutze ich GitHub, um mein Projekt zu speichern und zu verwalten.
 Heute habe ich mit meinem neuen Projekt begonnen. Ich möchte einen Notenrechner erstellen, mit dem man verschiedene Noten eingeben und den Durchschnitt berechnen kann. 
 Zuerst habe ich mir überlegt, welche Funktionen das Programm haben soll. Danach habe ich die Grundstruktur mit HTML erstellt. Zum Schluss habe ich ein neues Repository auf GitHub erstellt und meinen bisherigen Stand hochgeladen.
 
-## Planung 21.08.2026
+### Planung 21.08.2026
 * [x]  Eingabefelder für Noten erstellen
 * [x] Button zum Berechnen erstellen
 * [x] Erste CSS-Gestaltung machen
@@ -39,7 +39,7 @@ Zuerst habe ich mir überlegt, welche Funktionen das Programm haben soll. Danach
 Heute habe ich einfach weiter gearbeitet. Ich habe überprüft, was ich bereits erreicht habe und welche Schritte noch offen sind. Die Eingabefelder für die Noten, 
 den Berechnen-Button und die erste CSS-Gestaltung habe ich erfolgreich umgesetzt. Außerdem habe ich meine Änderungen auf GitHub gespeichert. Insgesamt bin ich mit meinem Fortschritt zufrieden und kann nun mit den nächsten Aufgaben weitermachen.
 
-## Planung 28.08.2026
+### Planung 28.08.2026
 * [x] JavaScript einbauen
 * [x] Durchschnitt berechnen
 * [x] Ergebnis anzeigen
@@ -47,7 +47,7 @@ den Berechnen-Button und die erste CSS-Gestaltung habe ich erfolgreich umgesetzt
 
 Heute habe ich JavaScript eingebaut, den Durchschnitt berechnet und das Ergebnis angezeigt. Danach habe ich alles getestet und Fehler verbessert.
 
-## Planung 04.09.2026
+### Planung 04.09.2026
 * [x] Weitere Noten hinzufügen können
 * [x] Noten löschen können
 * [x] Eingaben überprüfen
@@ -56,7 +56,7 @@ Heute habe ich JavaScript eingebaut, den Durchschnitt berechnet und das Ergebnis
 Heute habe ich einfach normal weitergearbeitet und mein Projekt verarbeitet, mir fiel bis jetzt eigentlich noch nichts
 schwierig alles lief gut.
 
-## Planung 11.09.2026
+### Planung 11.09.2026
 * [ ] Design verbessern
 * [ ] Webseite übersichtlicher machen
 * [ ] Verschiedene Noten testen
