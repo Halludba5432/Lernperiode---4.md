@@ -21,7 +21,7 @@ Ausserdem nutze ich GitHub, um mein Projekt zu speichern und zu verwalten.
 > Meine Informatik Skills stärken und ohne unnötige Hilfe arbeiten, sodass ich lernen kann selbst arbeiten zu können.
 
 ## Tagesplanungen
-### Planung 14.08.2026
+## Planung 14.08.2026
 * [x]  Projekt Notenrechner planen
 * [x]  Grundstruktur erstellen
 * [x]  HTML-Grundgerüst programmieren
@@ -48,7 +48,16 @@ den Berechnen-Button und die erste CSS-Gestaltung habe ich erfolgreich umgesetzt
 Heute habe ich JavaScript eingebaut, den Durchschnitt berechnet und das Ergebnis angezeigt. Danach habe ich alles getestet und Fehler verbessert.
 
 ## Planung 04.09.2026
-* [ ] Weitere Noten hinzufügen können
-* [ ] Noten löschen können
-* [ ] Eingaben überprüfen
-* [ ] Fehler beheben
+* [x] Weitere Noten hinzufügen können
+* [x] Noten löschen können
+* [x] Eingaben überprüfen
+* [x] Fehler beheben
+
+Heute habe ich einfach normal weitergearbeitet und mein Projekt verarbeitet, mir fiel bis jetzt eigentlich noch nichts
+schwierig alles lief gut.
+
+## Planung 11.09.2026
+* [ ] Design verbessern
+* [ ] Webseite übersichtlicher machen
+* [ ] Verschiedene Noten testen
+* [ ] Code aufräumen
