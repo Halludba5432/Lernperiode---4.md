@@ -57,7 +57,15 @@ Heute habe ich einfach normal weitergearbeitet und mein Projekt verarbeitet, mir
 schwierig alles lief gut.
 
 ### Planung 11.09.2026
-* [ ] Design verbessern
-* [ ] Webseite übersichtlicher machen
-* [ ] Verschiedene Noten testen
-* [ ] Code aufräumen
+* [x] Design verbessern
+* [x] Webseite übersichtlicher machen
+* [x] Verschiedene Noten testen
+* [x] Code aufräumen
+
+Heute habe ich die oben stehenden Sachen erledigt und hatte eigentlich gar keine Schwierigkeiten, alles lief perfekt so wie ich es wollte.
+
+### Planung 18.09.2026
+* [ ] Alle Funktionen testen
+* [ ]Letzte Fehler beheben
+* [ ] Design kontrollieren
+* [ ] GitHub-Dokumentation ergänzen
