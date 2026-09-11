@@ -66,6 +66,6 @@ Heute habe ich die oben stehenden Sachen erledigt und hatte eigentlich gar keine
 
 ### Planung 18.09.2026
 * [ ] Alle Funktionen testen
-* [ ]Letzte Fehler beheben
+* [ ] Letzte Fehler beheben
 * [ ] Design kontrollieren
 * [ ] GitHub-Dokumentation ergänzen
