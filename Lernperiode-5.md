@@ -65,7 +65,15 @@ schwierig alles lief gut.
 Heute habe ich die oben stehenden Sachen erledigt und hatte eigentlich gar keine Schwierigkeiten, alles lief perfekt so wie ich es wollte.
 
 ### Planung 18.09.2026
-* [ ] Alle Funktionen testen
-* [ ] Letzte Fehler beheben
-* [ ] Design kontrollieren
-* [ ] GitHub-Dokumentation ergänzen
+* [x] Alle Funktionen testen
+* [x] Letzte Fehler beheben
+* [x] Design kontrollieren
+* [x] GitHub-Dokumentation ergänzen
+
+Heute Habe ich einfach weiter gearbeitet und alle Funktionen und letzte Fehler getestet und behoben und das design kontrolliert und mache jetzt dann auch die Github Ergänzung ich hatte keine schwierigkeiten alles lief wie geplant
+
+### Planung 25.09.2026
+* [ ] Letzten Test durchführen
+* [ ] Letzte Fehler korrigieren
+* [ ] Notenrechner fertigstellen
+* [ ] GitHub-Dokumentation abschliessen
