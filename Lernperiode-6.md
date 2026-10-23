@@ -35,3 +35,39 @@
 * [ ] Mindestens fünf Anforderungen aufschreiben.
 * [ ] Visual Studio vorbereiten.
 * [ ] Einen Projektplan erstellen.
+
+#### Tagesreflexion
+
+### Planung 30.10.2026
+
+#### Tagesreflexion
+
+### Planung 06.11.2026
+
+#### Tagesreflexion
+
+### Planung 13.11.2026
+
+#### Tagesreflexion
+
+### Planung 20.11.2026
+
+#### Tagesreflexion
+
+### Planung 27.11.2026
+
+#### Tagesreflexion
+
+### Planung 04.12.2026
+
+#### Tagesreflexion
+
+### Planung 11.12.2026
+
+#### Tagesreflexion
+
+### Planung 18.12.2026
+
+#### Tagesreflexion
+
+## Lernperiode Reflexion
