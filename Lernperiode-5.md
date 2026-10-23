@@ -80,3 +80,8 @@ Heute Habe ich einfach weiter gearbeitet und alle Funktionen und letzte Fehler g
 
 Heute Habe ich einfach weiter gearbeitet hatte keine schwierigkeiten und bin gut vorwärts gekommen.
 
+
+## Lernperiode Reflexion
+Dieses Projekt gefiel mir sehr es hat sehr spass gemacht. ich habe das projekt fertig gemacht und hier füge ich auch den link rein.
+file:///C:/Users/abdul/OneDrive%20-%20BBBaden/Projekte/notenrechner/index.html
+
