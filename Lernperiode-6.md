@@ -92,9 +92,10 @@ Fügen Sie hier die weiteren Tage der Lernperiode ein.
 
 ### Planung 30.10.2026
 
-- [ ] Ihr Text...
-- [ ] Ihr Text...
-- [ ] Ihr Text...
+- [ ] Die Projektstruktur in Visual Studio erstellen.
+- [ ] Mindestens zwei Klassen programmieren.
+- [ ] Attribute und Methoden hinzufügen.
+- [ ] Mindestens zwei Objekte erstellen und testen.
 
 #### Tagesreflexion
 
