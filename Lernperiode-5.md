@@ -73,7 +73,10 @@ Heute habe ich die oben stehenden Sachen erledigt und hatte eigentlich gar keine
 Heute Habe ich einfach weiter gearbeitet und alle Funktionen und letzte Fehler getestet und behoben und das design kontrolliert und mache jetzt dann auch die Github Ergänzung ich hatte keine schwierigkeiten alles lief wie geplant
 
 ### Planung 25.09.2026
-* [ ] Letzten Test durchführen
-* [ ] Letzte Fehler korrigieren
-* [ ] Notenrechner fertigstellen
-* [ ] GitHub-Dokumentation abschliessen
+* [x] Letzten Test durchführen
+* [x] Letzte Fehler korrigieren
+* [x] Notenrechner fertigstellen
+* [x] GitHub-Dokumentation abschliessen
+
+Heute Habe ich einfach weiter gearbeitet hatte keine schwierigkeiten und bin gut vorwärts gekommen.
+
