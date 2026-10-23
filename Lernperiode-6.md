@@ -68,10 +68,10 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Eine Projektidee auswählen und drei Projektziele festlegen.
-- [ ] Mindestens fünf Anforderungen für das Projekt aufschreiben.
-- [ ] Visual Studio für das Projekt vorbereiten.
-- [ ] Einen einfachen Projektplan für die nächsten Wochen erstellen.
+- [x] Eine Projektidee auswählen und drei Projektziele festlegen.
+- [x] Mindestens fünf Anforderungen für das Projekt aufschreiben.
+- [x] Visual Studio für das Projekt vorbereiten.
+- [x] Einen einfachen Projektplan für die nächsten Wochen erstellen.
 
 
 #### Tagesreflexion
@@ -81,8 +81,9 @@ und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
 Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
+Heute habe ich mein neues Projekt geplant und mir überlegt, was ich während dieser Lernperiode erreichen möchte. Dabei habe ich gelernt, dass eine gute Planung wichtig ist, damit ich den Überblick behalte. Ich muss noch darauf achten, dass die Projektidee nicht zu kompliziert wird. In den nächsten Wochen möchte ich regelmässig arbeiten und meine Fortschritte dokumentieren.
 
-...Ihr Text...
+
 
 
 <!--
