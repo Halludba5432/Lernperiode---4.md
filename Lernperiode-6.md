@@ -92,14 +92,14 @@ Fügen Sie hier die weiteren Tage der Lernperiode ein.
 
 ### Planung 30.10.2026
 
-- [ ] Die Projektstruktur in Visual Studio erstellen.
-- [ ] Mindestens zwei Klassen programmieren.
-- [ ] Attribute und Methoden hinzufügen.
-- [ ] Mindestens zwei Objekte erstellen und testen.
+- [x] Die Projektstruktur in Visual Studio erstellen.
+- [x] Mindestens zwei Klassen programmieren.
+- [x] Attribute und Methoden hinzufügen.
+- [x] Mindestens zwei Objekte erstellen und testen.
 
 #### Tagesreflexion
 
-Ihr Text...
+Heute habe ich alle geplanten Aufgaben erledigt. Ich habe die Projektstruktur erstellt, zwei Klassen mit Attributen und Methoden programmiert und zwei Objekte erstellt und getestet. Dabei habe ich besser verstanden, wie Klassen und Objekte funktionieren.
 
 ### Planung 06.11.2026
 
