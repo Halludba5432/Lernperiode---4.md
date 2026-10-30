@@ -103,9 +103,10 @@ Heute habe ich alle geplanten Aufgaben erledigt. Ich habe die Projektstruktur er
 
 ### Planung 06.11.2026
 
-- [ ] Ihr Text...
-- [ ] Ihr Text...
-- [ ] Ihr Text...
+- [ ] Konstruktoren für die erstellten Klassen programmieren.
+- [ ] Mindestens zwei Properties hinzufügen.
+- [ ] Public und private sinnvoll einsetzen.
+- [ ] Die neuen Funktionen mit mindestens zwei Testfällen überprüfen.
 
 #### Tagesreflexion
 
