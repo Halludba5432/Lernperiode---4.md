@@ -103,30 +103,21 @@ Heute habe ich alle geplanten Aufgaben erledigt. Ich habe die Projektstruktur er
 
 ### Planung 06.11.2026
 
-- [ ] Konstruktoren für die erstellten Klassen programmieren.
-- [ ] Mindestens zwei Properties hinzufügen.
-- [ ] Public und private sinnvoll einsetzen.
-- [ ] Die neuen Funktionen mit mindestens zwei Testfällen überprüfen.
+- [x] Konstruktoren für die erstellten Klassen programmieren.
+- [x] Mindestens zwei Properties hinzufügen.
+- [x] Public und private sinnvoll einsetzen.
+- [x] Die neuen Funktionen mit mindestens zwei Testfällen überprüfen.
 
 #### Tagesreflexion
 
-Ihr Text...
-
-### Planung 13.11.2026
-
-- [ ] Ihr Text...
-- [ ] Ihr Text...
-- [ ] Ihr Text...
-
-#### Tagesreflexion
-
-Ihr Text...
+Heute habe ich alle geplanten Aufgaben erledigt. Ich habe Konstruktoren und Properties programmiert, public und private eingesetzt und meine Funktionen erfolgreich getestet.
 
 ### Planung 20.11.2026
 
-- [ ] Ihr Text...
-- [ ] Ihr Text...
-- [ ] Ihr Text...
+- [ ] Mindestens zwei Klassen miteinander verbinden.
+- [ ] Eine passende Assoziation umsetzen.
+- [ ] Mindestens zwei unnötige Codewiederholungen verbessern.
+- [ ] Die Zusammenarbeit der Klassen testen.
 
 #### Tagesreflexion
 
